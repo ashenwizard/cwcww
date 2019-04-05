@@ -9,4 +9,4 @@
 
 3. `node build\app.js`
 
-4. Acesso em `http://localhost:3000`
+4. Acesso em https://localhost:3000
