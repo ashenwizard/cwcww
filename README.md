@@ -1,4 +1,3 @@
-### UFSC - CTC - INE - INE5646 Programação para Web
 # app-pessoas
 
 ## Instruções
