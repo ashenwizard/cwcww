@@ -14,7 +14,7 @@
   "author": "Leandro J. Komosinski",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.5",
